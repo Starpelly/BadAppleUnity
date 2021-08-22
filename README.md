@@ -6,3 +6,6 @@
 
 ## Dependencies
 [Newtonsoft.JSON](https://github.com/jilleJr/Newtonsoft.Json-for-Unity) (The project comes with the package in the assets)
+
+
+Version used: **Unity 2021.2.0b7**
